@@ -206,7 +206,7 @@ home.html
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by RAHUL VIJAY V 212223040164 </center>
+        <center> Designed and Developed by  VIJAY R 212223240178 </center>
     </footer>
 </body>
 </html>
@@ -365,7 +365,7 @@ product.html
 </center>
 </div>
 <footer>
-<center> Designed and Developed by RAHUL VIJAY V 212223040164 </center>
+<center> Designed and Developed by VIJAY R 212223240178 </center>
 </footer>
 </body>
 </html>
@@ -535,7 +535,7 @@ people.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by RAHUL VIJAY V 212223040164</center>
+        <center> Designed and Developed by VIJAY R 212223240178</center>
     </footer>
 </body>
 </html>
@@ -757,13 +757,13 @@ contact.html
             <div class="box-2"> 
                 <h2> Contact Info </h2>
                 <p> <span>Address</span> :173, Avvai Salai, Gopalapuram, Chennai, Tamil Nadu-600086</p>
-                <p> <span>Email</span> : rahu.vijay082005@gmail.com </p>
-                <p> <span>Phone</span> : 8248040448</p>
+                <p> <span>Email</span> : rahu.vijay082004@gmail.com </p>
+                <p> <span>Phone</span> : 8870900954</p>
             </div>
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by RAHUL VIJAY V 212223040164</center>
+        <center> Designed and Developed by VIJAY R 212223240178</center>
     </footer>
 </body>
 </html>
